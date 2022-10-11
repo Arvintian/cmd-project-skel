@@ -1,0 +1,5 @@
+{
+    "project": "golang-demo",
+    "cmd": "demo",
+    "description": "golang cmd demo"
+}
