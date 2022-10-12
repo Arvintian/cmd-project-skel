@@ -1,5 +1,5 @@
 {
-    "project": "golang-demo",
+    "project": "cmd-demo",
     "cmd": "demo",
-    "description": "golang cmd demo"
+    "description": "cmd demo project"
 }

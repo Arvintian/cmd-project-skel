@@ -1,10 +1,10 @@
-# golang cmd project skel
+# cmd project skel
 
-A project template for golang cmd
+A template project for cmd with golang
 
 Usage:
 
 ```
-pip install cookiecutter
+# pip install cookiecutter
 cookiecutter git@github.com:Arvintian/cmd-project-skel.git
 ```
