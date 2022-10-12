@@ -3,7 +3,7 @@ module {{cookiecutter.project}}
 go 1.18
 
 require (
-	github.com/Arvintian/go-utils v0.0.0-20221012024917-654a94719d3c
+	github.com/Arvintian/go-utils v0.0.0-20221012034712-40c5d7eda1fb
 	github.com/spf13/cobra v1.6.0
 	k8s.io/klog/v2 v2.60.1
 )
